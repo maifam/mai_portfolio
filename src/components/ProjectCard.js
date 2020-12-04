@@ -103,13 +103,3 @@ const openPopupboxBreathe = () => {
 export default Portfolio;
 
 
-
-// function ProjectCard({projCard}) {
-//     return (
-//       <div>
-          
-//       </div>
-//     );
-//   }
-  
-//   export default ProjectCard;
