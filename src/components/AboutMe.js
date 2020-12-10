@@ -8,7 +8,7 @@ function AboutMe(){
                 <div className= "col-lg-6 col-xm-12">
                     {/* mb-5 and other vlaues bootstrap values */}
                     <div className="photo-wrap mb-5">
-                        <img className = "profile-img" src = {Me} alt = "author" />
+                        <img className="profile-img" src = {Me} alt = "author" />
                     </div>
                 </div>
                 <div className= "col-lg-6 col-xm-12">
