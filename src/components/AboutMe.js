@@ -20,7 +20,7 @@ function AboutMe(){
                     I am experienced in building lasting relationships as well as bridging 
                     the gap between clients' needs and company's visions.<br/> 
                     I have a curious mindset; not only do I enjoy exploring new technologies, 
-                    .
+                    but new places such as restaurants and hiking trails.
                     </p>
                 </div>
             </div>
