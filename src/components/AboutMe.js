@@ -11,7 +11,7 @@ function AboutMe(){
                     </div>
                 </div>
                 <div className= "col-lg-6 col-xm-12">
-                    <h1 className= "about-heading">About Me</h1>
+                    <h1 className= "about-heading"></h1>
                     <p>
                     Hello, there, my name is Mai (prounouned like 'My').<br/>
                     I am a software engineer dedicated to understanding and helping you. 
@@ -22,7 +22,6 @@ function AboutMe(){
                     but new places such as restaurants and hiking trails.
                     </p>
                 </div>
-
             </div>
 
         </div>
