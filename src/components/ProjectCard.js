@@ -9,7 +9,7 @@ import "react-popupbox/dist/react-popupbox.css";
 
 function Portfolio(){
 
-// Tenant Truths
+
 const openPopupboxAlfresko= () => {
     const content = (
 
