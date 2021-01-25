@@ -108,11 +108,11 @@ const openPopupboxBreathe = () => {
                         </div>
               
                             {/* second project */}
-                        <div className = "portfolio-image-box" onClick = {openPopupboxClothzilla}>
+                        {/* <div className = "portfolio-image-box" onClick = {openPopupboxClothzilla}>
                             <img className= "portfolio-image" src={Clothzilla} alt= "Clothzilla Project"/>
                             <div className = "overflow"></div>
                             <FontAwesomeIcon className= "portfolio-icon" icon={faSearchPlus} />
-                         </div>
+                         </div> */}
                          {/* third project */}
 
                         <div className = "portfolio-image-box" onClick = {openPopupboxBreathe}>
