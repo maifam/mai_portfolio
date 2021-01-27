@@ -101,8 +101,8 @@ const openPopupboxBreathe = () => {
             <div className ="container">
                 <h1 className= "text-uppercase text-center py-5">Portfolio</h1>
                     <div className= "image-box-wrapper row justify-content-center">
-                        <div className = "portfolio-image-box" onClick = {openPopupboxTenantTruths}>
-                            <img className= "portfolio-image" src={TenantTruths} alt= "Tenant Truths Project"/>
+                        <div className = "portfolio-image-box" onClick = {alfresko}>
+                            <img className= "portfolio-image" src={alfresko alt= "Al Fresko"/>
                             <div className = "overflow"></div>
                             <FontAwesomeIcon className= "portfolio-icon" icon={faSearchPlus} />
                         </div>
