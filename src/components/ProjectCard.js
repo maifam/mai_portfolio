@@ -79,7 +79,7 @@ const openPopupboxBreathe = () => {
         </p>
         {/* <b>Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://tenanttruths.netlify.app/")}>https://tenanttruths.netlify.app/</a> */}
         <b className = "link-desc">GitHub: Frontend</b> <a className = "hyper-link" onClick = {() => window.open("https://github.com/maifam/breathe_frontend")}>https://github.com/maifam/breathe_frontend</a><br></br>
-        <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/cmur11/breathe_backend/tree/master")}>https://github.com/cmur11/breathe_backend/tree/master</a>
+        <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/maifam/breathe_backend/tree/master")}>https://github.com/cmur11/breathe_backend/tree/master</a>
         </>
 
     )
