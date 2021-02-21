@@ -40,32 +40,32 @@ const openPopupboxTenantTruths = () => {
 
 
     // Clothzilla
-const openPopupboxClothzilla = () => {
-    const content = (
+// const openPopupboxClothzilla = () => {
+//     const content = (
 
-        <>
-        <img className = "portfolio-image-popupbox" src = {Clothzilla} alt = "Clothzilla Application" />
-        <p className = "popup-desc">
-        A clothing retail application built on Ruby on Rails and React
-        </p>
-        {/* <b>Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://tenanttruths.netlify.app/")}>https://tenanttruths.netlify.app/</a> */}
-        <b className = "link-desc">GitHub: Frontend</b> <a className = "hyper-link" onClick = {() => window.open("https://github.com/cmur11/ecom-app-frontend")}>https://github.com/cmur11/ecom-app-frontend</a><br></br>
-        <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/cmur11/ecom_app_backend_api")}>https://github.com/cmur11/ecom_app_backend_api</a>
-        </>
+//         <>
+//         <img className = "portfolio-image-popupbox" src = {Clothzilla} alt = "Clothzilla Application" />
+//         <p className = "popup-desc">
+//         A clothing retail application built on Ruby on Rails and React
+//         </p>
+//         {/* <b>Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://tenanttruths.netlify.app/")}>https://tenanttruths.netlify.app/</a> */}
+//         <b className = "link-desc">GitHub: Frontend</b> <a className = "hyper-link" onClick = {() => window.open("https://github.com/cmur11/ecom-app-frontend")}>https://github.com/cmur11/ecom-app-frontend</a><br></br>
+//         <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/cmur11/ecom_app_backend_api")}>https://github.com/cmur11/ecom_app_backend_api</a>
+//         </>
 
-    )
-    PopupboxManager.open({content})
-}
+//     )
+//     PopupboxManager.open({content})
+// }
 
 
-    const popupboxConfigClothzilla = {
-        titleBar: {
-            enable: false,
-            text: "Clothzilla"
-        },
-        fadeIn: true,
-        fadeInSpeed: 500
-    }
+//     const popupboxConfigClothzilla = {
+//         titleBar: {
+//             enable: false,
+//             text: "Clothzilla"
+//         },
+//         fadeIn: true,
+//         fadeInSpeed: 500
+//     }
 
 
        // Breathe
