@@ -14,9 +14,9 @@ const openPopupboxTenantTruths = () => {
     const content = (
 
         <>
-        <img className = "portfolio-image-popupbox" src = {TenantTruths} alt = "Tenant Truths Application" />
+        <img className = "portfolio-image-popupbox" src = {alfresko} alt = "Al Fresko" />
         <p className = "popup-desc">
-        A react/rails application inspired by StreetEasy and Yelp, this application allows users to review, 
+        A react/rails application inspired by Yelp, this application allows users to review, 
         rate, and upload photos of apartment listings to ensure prospective tenants have transparency into apartments
         </p>
         <b className = "link-desc">Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://tenanttruths.netlify.app/")}>https://tenanttruths.netlify.app/</a><br></br>
