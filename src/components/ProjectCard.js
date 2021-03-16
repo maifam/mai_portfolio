@@ -21,7 +21,7 @@ const openPopupboxTenantTruths = () => {
         </p>
         <b className = "link-desc">Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://alfresko.netlify.app/")}>https://alfresko.netlify.app/</a><br></br>
         <b className = "link-desc">GitHub: Frontend</b> <a className = "hyper-link" onClick = {() => window.open("https://github.com/cmur11/apartmentreviewfrontend")} >https://github.com/cmur11/apartmentreviewfrontend</a><br></br>
-        <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/cmur11/apartmentreview_backend")}>https://github.com/cmur11/apartmentreview_backend</a>
+        <b className = "link-desc">GitHub: Backend</b> <a className = "hyper-link"onClick = {() => window.open("https://github.com/maifam/al_fresko_frontend")}>https://github.com/maifam/al_fresko_frontend</a>
         </>
 
     )
