@@ -23,7 +23,7 @@ function NavBar(){
                     <Link smooth = {true} to="home"className="nav-link" aria-current="page" href="#">Home</Link>
                   </li>
                   <li className="nav-item">
-                    <Link smooth = {true} to="about" offset={-80} className="nav-link" href="#">About Me</Link>
+                    <Link smooth = {true} to="about" offset={-80} className="nav-link" href="#"></Link>
                   </li>
                   {/* <li className="nav-item">
                     <a className="nav-link" href="#">Services</a>
