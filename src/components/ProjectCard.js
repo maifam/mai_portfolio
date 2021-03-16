@@ -1,6 +1,5 @@
 import React from "react"
 import Breathe from "../projectImages/Breathe.png"
-import Clothzilla from "../projectImages/Clothzilla.png"
 // FONT AWESOME
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faSearchPlus} from "@fortawesome/free-solid-svg-icons"
