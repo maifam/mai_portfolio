@@ -1,5 +1,4 @@
 import React from "react"
-import TenantTruths from "../projectImages/TenantTruths.png"
 import Breathe from "../projectImages/Breathe.png"
 import Clothzilla from "../projectImages/Clothzilla.png"
 // FONT AWESOME
