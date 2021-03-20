@@ -12,7 +12,7 @@ function Footer(){
                     <div className = "col-lg-4 col-md-6 col-sm-6">
                         {/* Address */}
                         <div className = "d-flex">
-                            <p> New York </p>
+                            <p> </p>
                         </div>
                         {/* email */}
                         <div className = "d-flex">
