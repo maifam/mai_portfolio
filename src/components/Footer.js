@@ -16,7 +16,7 @@ function Footer(){
                         </div>
                         {/* email */}
                         <div className = "d-flex">
-                            <p> maitphm@gmail.com</p>
+                            <p></p>
                         </div>
                     </div>
                         <div className = "col-lg-3 col-md-2 col-sm-6">
