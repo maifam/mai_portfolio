@@ -22,7 +22,7 @@ function Footer(){
                         <div className = "col-lg-3 col-md-2 col-sm-6">
                             <div className = "row">
                                 <div className = "col">
-                                    <a className = "footer-nav">Home</a>
+                                    <a className = "footer-nav"></a>
                                     <br/>
                                     <a className = "footer-nav">About Me</a>
                                     <br/>
