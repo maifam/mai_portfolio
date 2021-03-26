@@ -26,7 +26,7 @@ function Footer(){
                                     <br/>
                                     <a className = "footer-nav">About Me</a>
                                     <br/>
-                                    <a className = "footer-nav">Experience</a>
+                                    <a className = "footer-nav"></a>
                                 </div>
                                 <div className = "col">
                                     <a className = "footer-nav">Portfolio</a>
