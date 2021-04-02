@@ -43,7 +43,7 @@ function Footer(){
                                 </div>
                                 <div className="contact-github">
                                  <SocialIcon target="_blank" url="https://github.com/maifam" fgColor="white" bgColor="dark-gray"/>
-                                 <a className="linkedin-a" href="https://github.com/maifam" target="_blank">Github</a>
+                                 <a className="linkedin-a" href="https://github.com/maifam" target="_blank"></a>
                                 </div>
                             </div>
                         </div>
