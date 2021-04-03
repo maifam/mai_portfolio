@@ -39,7 +39,7 @@ function Footer(){
                             <div className = "d-flex justify-content-center">
                                 <div className="contact-linkedin">
                                  <SocialIcon target="_blank" url="https://www.linkedin.com/in/maitphm/" fgColor="white" bgColor="blue"/>
-                                 <a className="linkedin-a" href="https://www.linkedin.com/in/maitphm/" target="_blank"></a>
+                                 <a className="linkedin-a" href="https://www.linkedin.com/in/maitphm/" target="_blank">LinkedIn</a>
                                 </div>
                                 <div className="contact-github">
                                  <SocialIcon target="_blank" url="https://github.com/maifam" fgColor="white" bgColor="dark-gray"/>
