@@ -31,8 +31,7 @@ function Experience() {
                                     behavioral health for an average of 55 clients
                         <br></br>● Provided feedback, recommendations and suggestions to staff 
                                     ranging from behavioral outbursts of clients and daily facility operations 
-                        <br></br>●  Spearheaded safety committee meetings on relapse and self-harm 
-                                    prevention and awareness in clients behaviors
+                        <br></br>●  
                     </div>
            </div>
             {/* third job */}
