@@ -18,7 +18,7 @@ function AboutMe(){
                     I am a software engineer dedicated to understanding and helping you. 
                     With an extensive professional background in mental health, 
                     I am experienced in building lasting relationships as well as bridging 
-                    the gap between <br/> 
+                    the gap between clients' needs and company's visions.<br/> 
                     I have a curious mindset; not only do I enjoy exploring new technologies,
                     but new places such as restaurants and hiking trails.
                     </p>
