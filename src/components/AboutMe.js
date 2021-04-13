@@ -16,7 +16,7 @@ function AboutMe(){
                     <p>
                     Hello,there, my name is Mai. <br/>
                     I am a software engineer dedicated to understanding and helping you. 
-                    With an extensive professional background in mental health, 
+                    With an extensive 
                     I am experienced in building lasting relationships as well as bridging 
                     the gap between clients' needs and company's visions.<br/> 
                     I have a curious mindset; not only do I enjoy exploring new technologies,
