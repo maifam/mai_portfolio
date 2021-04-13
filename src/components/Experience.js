@@ -29,7 +29,8 @@ function Experience() {
                         <h3> Behavioral Supervisor(2016-2019) </h3>    
                         <br></br>● Collaborated with clinical department on the performance of 
                                     behavioral health for an average of 55 clients
-                        <br></br>● Hired, trained and managed an average of 40 staff members 
+                        <br></br>● Provided feedback, recommendations and suggestions to staff 
+                                    ranging from behavioral outbursts of clients and daily facility operations 
                         <br></br>● Systematized incidental reports monthly for accuracy, completeness and 
                                     quality to ensure compliance with state mandates
                         <br></br>●  Spearheaded safety committee meetings on relapse and self-harm 
