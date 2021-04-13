@@ -15,7 +15,7 @@ function AboutMe(){
                     <h1 className= "about-heading">A little about me...</h1>
                     <p>
                     Hello,there, my name is Mai. <br/>
-                    I am a software engineer dedicated to understanding and helping you. 
+                    I am a software engineer
                     With an extensive professional background in mental health, 
                     I am experienced in building lasting relationships as well as bridging 
                     the gap between clients' needs and company's visions.<br/> 
