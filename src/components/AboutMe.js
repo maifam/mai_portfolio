@@ -12,7 +12,7 @@ function AboutMe(){
                     </div>
                 </div>
                 <div className= "col-lg-6 col-xm-12">
-                    <h1 className= "about-heading">A little about me...</h1>
+                    <h1 className= "about-heading">.</h1>
                     <p>
                     Hello, there, my name is Mai.<br/>
                     I am a software engineer dedicated to understanding and helping you. 
