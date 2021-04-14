@@ -27,9 +27,14 @@ function Experience() {
                 <div className= "marker"></div>
                     <div className= "timeline-content">
                         <h3> Behavioral Supervisor(2016-2019) </h3>    
-                        <p></p>
-                        <br></br>   
-                        <p></p>
+                        <br></br>● Developed and implemented major policies to ensure the 
+                                    efficient operations of the department and safety of 
+                                    clients and staff 
+                        <br></br>● Hired, trained and managed an average of 40 staff members 
+                        <br></br>● Systematized incidental reports monthly for accuracy, completeness and 
+                                    quality to ensure compliance with state mandates
+                        <br></br>●  Spearheaded safety committee meetings on relapse and self-harm 
+                                    prevention and awareness in clients behaviors
                     </div>
            </div>
             {/* third job */}
