@@ -45,8 +45,6 @@ function Experience() {
                         <br></br>● Built final project with React framework, utilizing hooks to create reusable 
                                     components and avoid duplication
                         <br></br>● Worked on group projects, to simulate group work setting and furthering material understanding
-                        <br></br>● 
-
                         </p>
                     </div>
             </div>
