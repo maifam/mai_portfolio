@@ -44,7 +44,7 @@ function Experience() {
                                     with Ruby on Rails Backend and Javascript front end
                         <br></br>● Built final project with React framework, utilizing hooks to create reusable 
                                     components and avoid duplication
-                        <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
+                        <br></br>● 
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
 
                         </p>
