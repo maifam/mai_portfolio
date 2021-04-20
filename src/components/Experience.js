@@ -40,7 +40,8 @@ function Experience() {
                         <p>
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
                         <br></br>● Worked with Ruby on rails tools to create complex, functional web application
-                        <br></br>● 
+                        <br></br>● Gained thorough understanding of Javascript by creating single page application 
+                                    with Ruby on Rails Backend and Javascript front end
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
