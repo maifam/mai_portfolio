@@ -41,6 +41,7 @@ function Experience() {
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
+                        <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
 
                         </p>
                     </div>
