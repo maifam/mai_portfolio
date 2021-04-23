@@ -39,6 +39,8 @@ function Experience() {
                         <h3> Flatiron School(Winter 2020 - Spring 2021) </h3>    
                         <p>
                         <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
+                        <br></br>● Completed Software Engineering bootcamp with a total of 525 clock hours
+
                         </p>
                     </div>
             </div>
