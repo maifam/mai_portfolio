@@ -39,7 +39,6 @@ function Experience() {
                         <h3> Flatiron School(Winter 2020 - Spring 2021) </h3>    
                         <p>
                         <br></br>● Part of a four-person team tasked with providing model driven performance for roughly 15,000 accounts and over $6 billion dollars in assets under management 
-                        <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
                         </p>
                     </div>
             </div>
