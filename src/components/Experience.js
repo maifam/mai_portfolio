@@ -17,7 +17,8 @@ function Experience() {
                         <br></br>● Hired, trained and managed an average of 40 staff members 
                         <br></br>● Systematized incidental reports monthly for accuracy, completeness and 
                                     quality to ensure compliance with state mandates
-                        <br></br>●  
+                        <br></br>●  Spearheaded safety committee meetings on relapse and self-harm 
+                                    prevention and awareness in clients behaviors
                         <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
                         <br></br>● Communicate with client services to understand individual investors’ objectives and risk profiles 
                         <br></br>● Daily responsibilities include pre-trade review for existing clients, trade implementation for new accounts, investment allocation changes, and cash and security contributions and withdrawals 
