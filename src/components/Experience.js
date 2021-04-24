@@ -19,7 +19,7 @@ function Experience() {
                                     quality to ensure compliance with state mandates
                         <br></br>●  Spearheaded safety committee meetings on relapse and self-harm 
                                     prevention and awareness in clients behaviors
-                        <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
+                        <br></br>●  
                         <br></br>● Communicate with client services to understand individual investors’ objectives and risk profiles 
                         <br></br>● Daily responsibilities include pre-trade review for existing clients, trade implementation for new accounts, investment allocation changes, and cash and security contributions and withdrawals 
                         </p>
