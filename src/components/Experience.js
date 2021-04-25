@@ -15,7 +15,8 @@ function Experience() {
                                     efficient operations of the department and safety of 
                                     clients and staff 
                         <br></br>● Hired, trained and managed an average of 40 staff members 
-                        <br></br>● 
+                        <br></br>● Systematized incidental reports monthly for accuracy, completeness and 
+                                    quality to ensure compliance with state mandates
                         <br></br>● Part of team that led in-house implementation of Vestmark, a portfolio management system now used by all financial advisors at Oppenheimer (this entailed testing daily functionalities such as trade generation, contributions, withdrawals, and writing internal procedures for such tasks) 
                         <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
                         <br></br>● Communicate with client services to understand individual investors’ objectives and risk profiles 
