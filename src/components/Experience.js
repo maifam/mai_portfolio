@@ -40,7 +40,6 @@ function Experience() {
                         <p>
                         <br></br>● Part of a four-person team tasked with providing model driven performance for roughly 15,000 accounts and over $6 billion dollars in assets under management 
                         <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
-                        <br></br>● Communicate with client services to understand individual investors’ objectives and risk profiles 
                         <br></br>● Daily responsibilities include pre-trade review for existing clients, trade implementation for new accounts, investment allocation changes, and cash and security contributions and withdrawals 
                         </p>
                     </div>
