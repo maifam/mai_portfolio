@@ -10,10 +10,18 @@ function Experience() {
                 <div className= "marker"></div>
                     <div className= "timeline-content">
                         <h3> Associate Director of Residential (2019-2020)</h3>    
-                        <p>Developed and implemented major policies to ensure the efficient operations of 
-                            the department and safety of clients and staff</p>
-                        <br></br>    
-                            </p>
+                        <p>
+                        <br></br>● Developed and implemented major policies to ensure the 
+                                    efficient operations of the department and safety of 
+                                    clients and staff 
+                        <br></br>● Manager models may include equities, ETFs, mutual funds, 
+                                    as well as various fixed income instruments 
+                        <br></br>● Manage portfolio drift of both internal and externally managed accounts. 
+                        <br></br>● Part of team that led in-house implementation of Vestmark, a portfolio management system now used by all financial advisors at Oppenheimer (this entailed testing daily functionalities such as trade generation, contributions, withdrawals, and writing internal procedures for such tasks) 
+                        <br></br>● Identify Vestmark system shortcomings and provide desired results to improve system functionalities 
+                        <br></br>● Communicate with client services to understand individual investors’ objectives and risk profiles 
+                        <br></br>● Daily responsibilities include pre-trade review for existing clients, trade implementation for new accounts, investment allocation changes, and cash and security contributions and withdrawals 
+                        </p>
                     </div>
             </div>
             {/* second job */}
