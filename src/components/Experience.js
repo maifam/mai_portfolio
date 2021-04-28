@@ -10,7 +10,8 @@ function Experience() {
                 <div className= "marker"></div>
                     <div className= "timeline-content">
                         <h3> Associate Director of Residential (2019-2020)</h3>    
-                        <p>
+                        <p>Developed and implemented major policies to ensure the efficient operations of 
+                            the department and safety of clients and staff</p>
                         <br></br>    
                             </p>
                     </div>
