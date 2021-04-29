@@ -11,7 +11,7 @@ return(
           {/* <h2>Software Engineer </h2> */}
           <Typed 
             className = "typed-text"
-            strings = {["Software Engineer", "Javascript", "React" , "Redux" , "Ruby on Rails"]}
+            strings = {["Software Engineer", "Javascript", "React" , "Redux" , "Ruby on Rails" , "HTML"]}
             typeSpeed={50}
             backSpeed={50}
             loop
