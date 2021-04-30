@@ -29,7 +29,7 @@ function Experience() {
             <div className = "timeline-block timeline-block-right">
                 <div className= "marker"></div>
                     <div className= "timeline-content">
-                        <h3> Flatiron School(Winter 2020 - Spring 2021)</h3>    
+                        <h3> </h3>    
                         <p>
                         <br></br>● Part of a four-person team tasked with providing model driven performance for roughly 15,000 accounts and over $6 billion dollars in assets under management 
                         <br></br>● Manager models may include equities, ETFs, mutual funds, as well as various fixed income instruments 
