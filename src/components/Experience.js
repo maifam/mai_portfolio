@@ -20,9 +20,9 @@ function Experience() {
                 <div className= "marker"></div>
                     <div className= "timeline-content">
                         <h3> Behavioral Supervisor(2016-2019) </h3>    
-                        <p>
+                        <p></p>
                         <br></br>   
-                            </p>
+                        <p></p>
                     </div>
            </div>
             {/* third job */}
