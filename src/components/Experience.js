@@ -19,7 +19,7 @@ function Experience() {
             <div className = "timeline-block timeline-block-left">
                 <div className= "marker"></div>
                     <div className= "timeline-content">
-                        <h3> Behavioral Supervisor(2016-2019)</h3>    
+                        <h3> </h3>    
                         <p>
                         <br></br>   
                             </p>
