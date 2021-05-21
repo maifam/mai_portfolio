@@ -16,7 +16,7 @@ return(
             backSpeed={50}
             loop
           />
-          <Link smooth = {true} to="contact" className= "btn-main-info" href="#">Co</Link>
+          <Link smooth = {true} to="contact" className= "btn-main-info" href="#">Con</Link>
 
       </div>
   </div>
