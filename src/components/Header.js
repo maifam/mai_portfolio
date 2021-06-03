@@ -7,7 +7,7 @@ function Header(){
 return(
   <div id = "home" className = "header-wrapper">
       <div className = "main-info">
-           <h1>Mai Ph</h1>
+           <h1>Mai Pha</h1>
           {/* <h2>Software Engineer </h2> */}
           <Typed 
             className = "typed-text"
