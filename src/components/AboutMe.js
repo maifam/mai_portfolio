@@ -19,7 +19,7 @@ function AboutMe(){
                     With an extensive professional background in mental health, 
                     I am experienced in building lasting relationships as well as bridging 
                     the gap between clients' needs and company's visions.<br/> 
-                    I have a curious 
+                    I have a curious mindset; not only do I enjoy exploring new technologies,
                     but new places such as restaurants and hiking trails.
                     </p>
                 </div>
