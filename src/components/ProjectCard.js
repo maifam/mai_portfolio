@@ -17,7 +17,7 @@ const openPopupboxAlfresko= () => {
         <img className = "portfolio-image-popupbox" src = {alfresko} alt = "Al Fresko" />
         <p className = "popup-desc">
         A react/rails application inspired by Yelp, this application allows users to review, 
-        rate restaurants that offer outdoor dining and covid safety precautions
+        
         </p>
         <b className = "link-desc">Netlify:</b><a className = "hyper-link" onClick = {() => window.open("https://alfresko.netlify.app/")}>https://alfresko.netlify.app/</a><br></br>
         <b className = "link-desc">GitHub: Frontend</b> <a className = "hyper-link" onClick = {() => window.open("https://github.com/maifam/al_fresko_backend")} >https://github.com/maifam/al_fresko_backend</a><br></br>
