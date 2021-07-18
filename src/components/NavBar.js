@@ -37,6 +37,9 @@ function NavBar(){
                   <li className="nav-item">
                     <Link smooth = {true} to="contact"className="nav-link" href="#">Contact</Link>
                   </li>
+                  <li className="nav-item">
+                    <Link smooth = {true} to="links"className="nav-link" href="#">Links</Link>
+                  </li>
                  </ul>
                 
               </div>

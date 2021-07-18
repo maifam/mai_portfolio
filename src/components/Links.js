@@ -6,7 +6,6 @@ function Links() {
 						<li><a href="https://github.com/maifam" target='_blank' class="icon brands fa-github"><span class="label">Github</span></a></li>
 						<li><a href="https://angel.co/u/maitphm" target='_blank' class="icon brands fa-angellist"><span class="label">Medium</span></a></li>
 						<li><a href="https://mtphm.medium.com/" target='_blank' class="icon brands fa-medium"><span class="label">Medium</span></a></li>
-
 					</ul>
       </div>
     );
